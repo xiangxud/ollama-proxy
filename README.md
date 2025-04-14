@@ -1,3 +1,2 @@
 # ollama-proxy
-ai api and mcp a2a protocol over webrtc datachannel
-peer to peer ai agent for your prative data ai analyze
+OLLAMA API and MCP A2A protocol based on WebRTC data channel for your private data analysis and GPU computing power sharing tools, which can implement a distributed private AI agent cluster network 
